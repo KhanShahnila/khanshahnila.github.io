@@ -11,6 +11,9 @@
 [Visualizing Trends: Superstore Return Analysis with Tableau](https://public.tableau.com/app/profile/shahnila.khan/viz/Sprint5FinalProject_17325909561770/Story1)
 <img src="images/Tab.png?raw=true"/>
 
+### Shopify App Success Analysis Using Power BI
+[Identifying Key Factors for App Success](images/Shopify_Analysis.gif)
+<img src="images/RatingsVsOrderCount.png?raw=true"/>
 
 ### Optimizing Restaurant Sales Through Data-Driven Insights
 [Restaurant Sales Analysis Using Power BI](/pdf/Zomato_Data_Analysis.pdf)
