@@ -7,7 +7,7 @@
 <img src="images/NYC_AirBNB.gif?raw=true"/>
 
 ### Superstore Return Product Analysis Using Tableau
-[Visualizing Trends: Superstore Return Analysis with Tableau]([/pdf/Superstore_Return_Analysis.pdf](https://public.tableau.com/app/profile/shahnila.khan/viz/Sprint5FinalProject_17325909561770/Story1))
+[Visualizing Trends: Superstore Return Analysis with Tableau](https://public.tableau.com/app/profile/shahnila.khan/viz/Sprint5FinalProject_17325909561770/Story1)
 <img src="images/Tab.png?raw=true"/>
 
 ### Optimizing Restaurant Sales Through Data-Driven Insights
