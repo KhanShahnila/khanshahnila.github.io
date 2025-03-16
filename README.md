@@ -5,11 +5,11 @@ Hello! I'm Shahnila
 I'm a certified Pharmacy Technician at Walmart with a background in healthcare and a strong foundation in Business Analysis. Recently, I completed a comprehensive Business Analyst boot camp at TripleTen, where I gained expertise in various tools and techniques, including:
 
 🔹 Tableau<br>
-🔹 Power BI
-🔹 SQL
-🔹 Microsoft Excel
-🔹 Pivot Tables
-🔹 Presentation Skills
+🔹 Power BI<br>
+🔹 SQL<br>
+🔹 Microsoft Excel<br>
+🔹 Pivot Tables<br>
+🔹 Presentation Skills<br>
 
 💼 Projects I'm Working On
 🍽️ Restaurant Sales Analysis Using Power BI – Investigated sales patterns influenced by ratings, pricing, and customer preferences to optimize pricing strategies and promotions.
