@@ -20,5 +20,5 @@ I'm passionate about leveraging data to uncover insights that drive informed dec
 📩 Let's Connect!
 I'm actively seeking opportunities in Business Analysis where I can contribute my skills and continue learning. Feel free to reach out if you'd like to connect or collaborate!
 
-📧 khanshanila.tt@gmail.com
+📧 khanshanila.tt@gmail.com<br>
 💻 https://khanshahnila.github.io/
