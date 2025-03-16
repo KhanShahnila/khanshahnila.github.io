@@ -12,8 +12,8 @@
 <img src="images/Tab.png?raw=true"/>
 
 ### Shopify App Success Analysis Using Power BI
-[Identifying Key Factors for App Success](images/Shopify_Analysis.gif)
-<img src="images/RatingsVsOrderCount.png?raw=true"/>
+[Identifying Key Factors for App Success](pad/Shopify_Analysis.pdf)
+<img src="images/Shopify_Analysis.gif?raw=true"/>
 
 ### Optimizing Restaurant Sales Through Data-Driven Insights
 [Restaurant Sales Analysis Using Power BI](/pdf/Zomato_Data_Analysis.pdf)
