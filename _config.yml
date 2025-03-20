@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
  
   <a href="https://www.linkedin.com/in/shahnila-k-b0758b352/">View My LinkedIn Profile</a> 
   <br>
-  email: "khanshanila.tt@gmail.com"
+  <a href="mailto:khanshanila.tt@gmail.com">Email Me</a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
